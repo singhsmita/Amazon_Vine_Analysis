@@ -1,5 +1,5 @@
 ﻿# Amazon Vine Review Analysis
-![enter image description here](https://github.com/singhsmita/Amazon_Vine_Analysis/blob/main/Results/amazon_vine.png
+![enter image description here](https://github.com/singhsmita/Amazon_Vine_Analysis/blob/main/Results/amazon_vine.png)
 
 Analysis using PySpark , AWS RDS , pgAdmin.
 
